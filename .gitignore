@@ -13,3 +13,12 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace 
+/Source/Aura/Public/AuraCharacterBase.h
+/Source/Aura/Private/AuraCharacterBase.cpp
+/Content/Maps/StartupMap_2.umap
+/Source/Aura/Public/AuraCharacterBase.h
+/Source/Aura/Private/AuraCharacterBase.cpp
+/Source/Aura/Private/AuraCharacterBase.cpp
+/Source/Aura/Private/AuraCharacterBase.cpp
+/Source/Aura/Private/AuraCharacterBase.cpp
+/Source/Aura/Private/AuraCharacterBase.cpp
